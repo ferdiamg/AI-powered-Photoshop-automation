@@ -51,6 +51,6 @@ This project is licensed under the [Creative Commons Attribution 4.0 Internation
 - **Attribution**: You must give appropriate credit by including the following in your project or public use:  
   - Project Name: "AI-Powered Photoshop Automation"  
   - Author: ArmaganVideos
-  - Link to the original repository: [ArmaganVideos AI-powered Photoshop Automation](https://github.com/ferdiamg/AI-powered-Photoshop-automation)
+  - Link to the original video: [ArmaganVideos Tutorial: AI-powered Photoshop Automation](https://youtu.be/4buHFbngWWc)
 
 ---
