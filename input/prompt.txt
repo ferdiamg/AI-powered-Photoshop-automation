@@ -1,0 +1,7 @@
+Create a table that summarizes the top responses to this thread: 
+"{posttitle}"
+Top 5 answers:
+"{ top5answers }"
+
+And give me an irreverent title so I can make a TikTok carousel post out of it.
+IMPORTANT: Respond only with the table with title and responses, where each response has the text (NO FIRST-PERSON-PERSPECTIVE, NOT MORE THAN 40 WORDS NOT LESS THAN 20!) and short_title (NOT LESS THAN 5 WORDS!) as a json! Don't output anything else!
